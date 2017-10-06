@@ -67,4 +67,5 @@ while True:
 		height = int(input("Enter height: "))
 		drawDiamond(height)
 	elif resp == 5:
+		print("Thank you for using the program.")
 		break
